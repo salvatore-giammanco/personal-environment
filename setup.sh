@@ -55,3 +55,13 @@ mkdir ~/Workspace
 # Git configuration
 git config --global user.name "Salvatore Giammanco"
 git config --global user.email "salvatore@giammanco.me"
+git config --global alias.ll 'log --oneline'
+git config --global alias.st 'status -sb'
+git config --global alias.s 'status'
+git config --global alias.c 'commit'
+git config --global alias.cm 'commit -m'
+git config --global alias.p 'push'
+git config --global alias.n 'checkout -b'
+git config --global alias.se '!git rev-list --all | xargs git grep -F'
+git config --global alias.d 'diff'
+git config --global alias.gl 'config --global -l'
