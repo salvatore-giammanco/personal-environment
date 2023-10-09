@@ -15,3 +15,7 @@ In this repository I will store all my personal development environment configur
 - [Spotify](https://www.spotify.com/it/download/other/)
 - [Telegram](https://desktop.telegram.org/)
 - [mpv](https://laboratory.stolendata.net/~djinn/mpv_osx/)
+
+## TODO
+
+- Add VIM configuration
